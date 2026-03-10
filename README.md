@@ -38,3 +38,7 @@ El análisis permitió identificar los departamentos con mayor impacto en las ve
 ## Resumen del análisis
 
 ![Resumen](resumen.png)
+
+## Vista general del proyecto
+
+![Vista del proyecto](readme.png)
