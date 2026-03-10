@@ -26,3 +26,15 @@ Analizar datos de ventas para identificar los departamentos con mayor contribuci
 ## Resultados
 
 El análisis permitió identificar los departamentos con mayor impacto en las ventas y visualizar tendencias clave que pueden apoyar decisiones estratégicas dentro del negocio.
+
+## Dashboard
+
+![Dashboard](dashboard.png)
+
+## Tablas dinámicas
+
+![Tabla dinámica](analisis-pivot.png)
+
+## Resumen del análisis
+
+![Resumen](resumen.png)
