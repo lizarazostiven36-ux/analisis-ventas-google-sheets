@@ -98,18 +98,18 @@ analisis-ventas-google-sheets/
 - Dashboard / Visualización
 
 ---
-## Vista del Proyecto
+
+### Vista General del Proyecto
+![Readme](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/readme.png)
 
 ### Dashboard
-![Dashboard](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/main/panel%20de%20control.png)
+![Dashboard](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/panel%20de%20control.png)
 
 ### Tablas Dinámicas
-![Pivot](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/main/an%C3%A1lisis-pivote.png)
+![Pivot](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/an%C3%A1lisis-pivote.png)
 
 ### Resumen del Análisis
-![Resumen](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/main/resumen.png)
-
-
+![Resumen](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/resumen.png)
 
 ## Autor
 
