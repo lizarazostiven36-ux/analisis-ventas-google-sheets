@@ -103,7 +103,7 @@ analisis-ventas-google-sheets/
 ## Vista del Proyecto
 
 ### Dashboard
-![Dashboard](panel de control.png)
+![Dashboard](panel%20de%20control.png)
 
 ### Tablas Dinámicas
 ![Pivot](análisis-pivote.png)
