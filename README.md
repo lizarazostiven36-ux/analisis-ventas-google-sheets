@@ -100,18 +100,11 @@ analisis-ventas-google-sheets/
 ---
 
 ### Vista General del Proyecto
-![Readme](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/readme.png)
 
-### Dashboard
-![Dashboard](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/panel%20de%20control.png)
-
-### Tablas Dinámicas
-![Pivot](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/an%C3%A1lisis-pivote.png)
-
-### Resumen del Análisis
-![Resumen](https://raw.githubusercontent.com/lizarazostiven36-ux/analisis-ventas-google-sheets/principal/resumen.png)
-
-## Autor
+![Dashboard](dashboard.png)
+![Pivot](pivote.png)
+![Vista](vista-general.png)
+![Resumen](resumen.png)
 
 **Stiven Lizarazo**  
 Analista de Datos Junior  
